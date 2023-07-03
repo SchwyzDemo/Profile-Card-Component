@@ -32,7 +32,7 @@ body{
 .container article:first-child {
     display: flex;
     align-items: center;
-    /* justify-content: start ; */
+    justify-content: start ;
 }
 
 .container article:first-child img{
